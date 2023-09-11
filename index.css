@@ -1,0 +1,9 @@
+body{
+    background-color:rgba(187, 175, 175, 0.925);
+}
+ol > li{color: rgb(235, 64, 64);
+      font-size: medium;
+      font-style: normal;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-style: italic;
+}
